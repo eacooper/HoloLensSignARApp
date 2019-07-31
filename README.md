@@ -1,6 +1,12 @@
 # SignAR
 HoloLens App for detecting, reading and displaying text in the environment
 
+Projects using this code should acknowledge:
+
+An Augmented Reality Sign-reading Assistant for Users with Reduced Vision.
+J. Huang, M. Kinateder, M.J. Dunn, W. Jarosz, X. Yang and E.A. Cooper
+PLOS One, 14(1), e0210630, 2019
+
 ## Requirements
 This application is based of the MS HoloToolkit and in particular it uses the spatial mapping abilities. Basic familiarity with developing and deploying for MS HoloLens is assumed. 
 
